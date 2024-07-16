@@ -1,3 +1,3 @@
 # telecalendar
 
-Describe your project here.
+CRUD operations on related Google Calendar
